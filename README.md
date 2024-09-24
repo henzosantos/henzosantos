@@ -9,7 +9,7 @@
 <p>
   Hi 👋, I'm Henzo! A passionate Data Science student from Brazil.
 
-  - 🌱 I’m currently studying Data Science <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 I’m currently studying curso tecnico de informatica para internet [![Etec][(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fetecstisabel%2F&psig=AOvVaw3J48ETf1qWLS9ifow6GuEr&ust=1727275690449000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCLjv08Dp24gDFQAAAAAdAAAAABAE)] 
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
 </p>
