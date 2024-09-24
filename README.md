@@ -9,7 +9,7 @@
 <p>
   Hi 👋, I'm Henzo! A passionate Data Science student from Brazil.
 
-  - 🌱 I’m currently studying curso tecnico de informatica para internet [Etec](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_SWeLHLj0HO1cc7CLsgK2WwWrsaY0y0xVzara5-Pae9vvh0NQloTOPuvNBydbO_DHBOg&usqp=CAU)
+  - 🌱 I’m currently studying curso tecnico de informatica para internet ![[Etec](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_SWeLHLj0HO1cc7CLsgK2WwWrsaY0y0xVzara5-Pae9vvh0NQloTOPuvNBydbO_DHBOg&usqp=CAU)
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
 </p>
