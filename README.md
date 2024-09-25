@@ -9,7 +9,7 @@
 <p>
   Hi 👋, I'm Henzo! A passionate Data Science student from Brazil.
 
-  - 🌱 I’m currently studying computer technical course for the internet! <img align="center" alt="Numpy" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1odgJeVAYJeGX3mUHZvd1tFYNGJuU8DdIZw&s">
+  - 🌱 I’m currently studying computer technical course for the internet! <img align="center" alt="Numpy" height="110" width="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1odgJeVAYJeGX3mUHZvd1tFYNGJuU8DdIZw&s">
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and ADS.
 </p>
